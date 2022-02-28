@@ -1,0 +1,23 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abenezer-Tilahun/My-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abenezer-Tilahun/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Abenezer-Tilahun/My-Portfolio#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
+}
